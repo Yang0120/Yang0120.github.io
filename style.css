@@ -4,7 +4,7 @@ color:green;
 .body {
     margin: 0; padding: 0;
 }
-.Header,.Footer {
+.header,.footer {
     height: 100px; background-color: #369;
 }
 .main {
