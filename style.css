@@ -1,17 +1,4 @@
-.body {background-color: yellow}
-.h1 {background-color: #00ff00}
-.h2 {background-color: transparent}
-.p {background-color: rgb(250,0,255)}
-body {
-    height: 50%;
-    min-height: 50%;
-}
-
-main{
-  flex: auto 
-}
-
-
+.body{color:red}
 .a:link,a:hover,a:active{
 color:green;
 }
