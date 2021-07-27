@@ -1,8 +1,4 @@
-.a:link{
-  color:red;
-}
-
-.a:hover,a:active{
+.a:link,a:hover,a:active{
 
 color:green;
 
