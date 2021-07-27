@@ -1,4 +1,4 @@
-.h1 {color:red}
+html.h1 {color:red}
 .a:link,a:hover,a:active{
 color:green;
 }
