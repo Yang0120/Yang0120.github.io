@@ -3,3 +3,9 @@
 color:green;
 
 }
+.body {margin: 0; padding: 0;}
+    .Header, .Footer {height: 100px; background-color: #369;}
+    .main {margin: 0 100px;}
+        .article, .aside {height: 150px;}
+        .article {background-color: silver;}
+        .aside {background-color: slateGrey;}
