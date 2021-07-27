@@ -1,3 +1,15 @@
+.header{
+  flex: auto
+}
+
+.main{
+  flex: auto 
+}
+
+.footer{
+  flex: auto
+}
+
 .a:link,a:hover,a:active{
 color:green;
 }
