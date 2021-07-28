@@ -2,3 +2,5 @@
 .a:link,a:hover,a:active{
 color:green;
 }
+aside {flex: 1}
+article {flex: 3}
