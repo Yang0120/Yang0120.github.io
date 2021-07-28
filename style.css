@@ -1,6 +1,9 @@
-.yhw {color:blue}
+body{
+width: 100px;
+height: 100px;
+}
 .a:link,a:hover,a:active{
 color:green;
 }
 aside {flex: 1}
-article {flex: 8}
+article {flex: 3}
