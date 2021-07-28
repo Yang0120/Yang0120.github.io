@@ -266,3 +266,6 @@ img {
 img.small {
     width: 100px;
 }
+.a:link,a:hover,a:active{
+color:green;
+}
